@@ -1,0 +1,33 @@
+1 ElectricCars TOGG T10 950000 wheels red 5/20/2023 true 2 new 0 TURKEY TL 80 
+10 ElectricCars TOGG T8CX 750000 wheels red 5/20/2023 true 2 new 0 TURKEY TL 80  
+50 ElectricCars TOGG 10V  1500000 wheels red 5/20/2023 2 true new 0 TURKEY TL 80 
+20 ElectricCars TESLA S 300000 wheels red 10/23/2022 3 true new 0 USA DOLLAR 10
+30 ElectricCars TESLA Y 280000 wheels red 9/20/2022 3 true new 0 USA DOLLAR 10
+80 ElectricCars TESLA X 150000 wheels red 9/20/2022 3 true new 0 USA DOLLAR 10
+220 ElectricCars PORSCHE TAYCAN4S 350000 wheels red false 8/20/2020 4 new 0 GERMANY EURO 15
+240 ElectricCars PORSCHE TAYCANTURBO 463000 wheels red false 10/20/2020 4 new 0 GERMANY EURO 15
+280 ElectricCars PORSCHES TAYCANTURBOS 563000 wheels red false10/20/2020 4 new 0 GERMANY EURO 15
+60 ElectricCars TOGG T10 950000 wheels white 5/20/2023 2 new 0 TURKEY TL 80 
+70 ElectricCars TOGG T8CX 750000 wheels white 5/20/2023 2 secondhand 150000 TURKEY TL 80  
+80 ElectricCars TOGG 10V  1500000 wheels white 5/20/2023 2 new 0 TURKEY TL 80 
+90 ElectricCars TESLA S 300000 wheels white 10/23/2022 3 new 0 USA DOLLAR 10
+110 ElectricCars TESLA Y 280000 wheels white 9/20/2022 3 secondhand 167000 USA DOLLAR 10
+120 ElectricCars TESLA X 150000 wheels white 9/20/2022 3 new 0 USA DOLLAR 10
+130 ElectricCars PORSCHE TAYCAN4S 350000 wheels white 8/20/2020 4 secondhand 173000 GERMANY EURO 15
+140 ElectricCars PORSCHE TAYCANTURBO 463000 wheels white 10/20/2020 4 new 0 GERMANY EURO 15
+150 ElectricCars PORSCHES TAYCANTURBOS 563000 wheels white 10/20/2020 4 secondhand 100000 GERMANY EURO 15
+160 ElectricCars TOGG T10 950000 wheels black 5/20/2023 2 new 0 TURKEY TL 80 
+170 ElectricCars TOGG T8CX 750000 wheels black 5/20/2023 2 new 0 TURKEY TL 80  
+180 ElectricCars TOGG 10V  1500000 wheels black 5/20/2023 2 secondhand 42500 TURKEY TL 80 
+190 ElectricCars TESLA S 300000 wheels black 10/23/2022 3 new 0 USA DOLLAR 10
+200 ElectricCars TESLA Y 280000 wheels black 9/20/2022 3 secondhand 33000 USA DOLLAR 10
+210 ElectricCars TESLA X 150000 wheels black 9/20/2022 3 new 0 USA DOLLAR 10
+220 ElectricCars PORSCHE TAYCAN4S 350000 wheels black 8/20/2020 4 secondhand 25000 GERMANY EURO 15
+230 ElectricCars PORSCHE TAYCANTURBO 463000 wheels black 10/20/2020 4 new 30000 GERMANY EURO 15
+240 ElectricCars PORSCHES TAYCANTURBOS 563000 wheels black 10/20/2020 4 new 0 GERMANY EURO 15
+250 HybridCars HYUNDAI ELENTRA 100000 wheels red 7/10/2013 2 MildHybrid true true new
+260 GasolineDieselGasCars TOYATA AURIS 250000 wheels red 5/6/2016 new automatic 1.6 124000
+
+
+
+
