@@ -1,6 +1,12 @@
 # CTIS-221--JAVA-PROJECT
 CTIS 221 - Object Oriented Programming Term Project
 
+The Best Vehicle for Your Budget (java project)
+The "Find a Suitable Vehicle" application allows you to view vehicles in the database by price or model, search for vehicles, add them to the database by model and remove them from the database.
+
+
+![image](https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/7eb27970-ffa3-4dd3-9b05-2139ca7074ee)
+
 
 
 <img width="610" alt="Ekran Resmi 2023-07-05 13 18 19" src="https://github.com/CanDasdemir7/CTIS-221--JAVA-PROJECT/assets/136342934/9d6f1ca3-2f3a-45e4-a22c-2ecdce60d025">
